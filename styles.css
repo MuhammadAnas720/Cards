@@ -1,0 +1,53 @@
+button{
+  width: 50px;
+  height: 100px;
+  background-size: cover;
+  margin-right: 0;
+
+}
+img{
+  width: 50px;
+  height: 100px;
+  position: relative;
+  left: 50px;
+}
+
+.one{
+  background-size: cover;
+
+}
+
+.player1{
+  position: absolute;
+  right: 5px; top: 50px;
+}
+
+.player2{
+  float: bottom;
+}
+
+.player1{
+  float: left;
+}
+
+.player1{
+  float: left;
+}
+
+/* .two {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+
+} */
