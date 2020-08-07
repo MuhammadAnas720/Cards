@@ -1,37 +1,57 @@
-button{
+button {
   width: 50px;
   height: 100px;
   background-size: cover;
   margin-right: 0;
-
 }
-img{
+
+img {
   width: 50px;
   height: 100px;
   position: relative;
   left: 50px;
 }
 
-.one{
+.one {
   background-size: cover;
-
 }
 
-.player1{
+.player1 {
   position: absolute;
-  right: 5px; top: 50px;
+  right:1%;
+  display: block;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  width: 30%;
 }
 
-.player2{
-  float: bottom;
+.player4 {
+  position: absolute;
+  top: 1%; right: 100px; left: 100px;
+  display: block;
+  text-align: center;
+  margin: auto;
+  width: 30%;
 }
 
-.player1{
-  float: left;
+.player3 {
+  position: absolute;
+  left:1%;
+  display: block;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  width: 30%;
 }
 
-.player1{
-  float: left;
+.player2 {
+  position: absolute;
+  bottom:1%; right: 100px; left: 100px;
+  display: block;
+  text-align: center;
+  margin: auto;
+  width: 30%;
 }
 
 /* .two {
